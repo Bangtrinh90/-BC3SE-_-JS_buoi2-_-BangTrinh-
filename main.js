@@ -1,6 +1,6 @@
 
     
-// // Tinh Luong NV
+// //BT1 Tinh Luong NV
 
 var btnTinhLuong = document.getElementById("btnTinhLuong");
 btnTinhLuong.onclick = function () {
